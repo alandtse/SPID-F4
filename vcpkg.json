@@ -8,6 +8,7 @@
     "clib-util",
     "fmt",
     "rsm-mmio",
+    "rapidcsv",
     "spdlog",
     "srell",
     "xbyak",
